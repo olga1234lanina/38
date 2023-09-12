@@ -1,0 +1,15 @@
+C:\Ess3\bin\Debug\net6.0\Ess3.exe
+c:\Ess3\bin\Debug\net6.0\Ess3.deps.json
+c:\Ess3\bin\Debug\net6.0\Ess3.runtimeconfig.json
+C:\Ess3\bin\Debug\net6.0\Ess3.dll
+C:\Ess3\bin\Debug\net6.0\Ess3.pdb
+C:\Ess3\obj\Debug\net6.0\Ess3.csproj.AssemblyReference.cache
+C:\Ess3\obj\Debug\net6.0\Ess3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ess3\obj\Debug\net6.0\Ess3.AssemblyInfoInputs.cache
+C:\Ess3\obj\Debug\net6.0\Ess3.AssemblyInfo.cs
+C:\Ess3\obj\Debug\net6.0\Ess3.csproj.CoreCompileInputs.cache
+C:\Ess3\obj\Debug\net6.0\Ess3.dll
+C:\Ess3\obj\Debug\net6.0\refint\Ess3.dll
+C:\Ess3\obj\Debug\net6.0\Ess3.pdb
+c:\Ess3\obj\Debug\net6.0\Ess3.genruntimeconfig.cache
+c:\Ess3\obj\Debug\net6.0\ref\Ess3.dll
